@@ -1,0 +1,71 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://filitogluenes-byte.github.io/-at--cafe/
+Subject: =?utf-8?Q?=C3=87at=C4=B1=20Cafe=20-=20Dijital=20Men=C3=BC?=
+Date: Sun, 29 Mar 2026 23:15:11 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--GTq7W8fA2xD1HPILIXQBRLOTTWzTVMaISmkMMbSPwm----"
+
+
+------MultipartBoundary--GTq7W8fA2xD1HPILIXQBRLOTTWzTVMaISmkMMbSPwm----
+Content-Type: text/html
+Content-ID: <frame-47881EDFD26D78A7E5EEFA5695C85F78@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://filitogluenes-byte.github.io/-at--cafe/
+
+<!DOCTYPE html><html lang="tr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-93173f82-db0e-4fe6-87b1-594b2e0130e8@mhtml.blink" />
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Çatı Cafe - Dijital Menü</title>
+    
+    
+    
+</head>
+<body>
+    <h1>☕ Çatı Cafe Menü</h1>
+    
+    <div class="kategori">
+        <h3>💨 Nargile Çeşitleri</h3>
+        <div class="urun"><span>Klasik Anason</span> <button>Sipariş</button></div>
+        <div class="urun"><span>Çatı Özel Karışım</span> <button>Sipariş</button></div>
+    </div>
+
+    <div class="kategori">
+        <h3>☕ Çay &amp; Kahve</h3>
+        <div class="urun"><span>Tavşan Kanı Çay</span> <button>Sipariş</button></div>
+        <div class="urun"><span>Türk Kahvesi</span> <button>Sipariş</button></div>
+        <div class="urun"><span>Latte</span> <button>Sipariş</button></div>
+    </div>
+
+    <div class="kategori">
+        <h3>🍰 Tatlılar</h3>
+        <div class="urun"><span>Sıcak Sufle</span> <button>Sipariş</button></div>
+        <div class="urun"><span>San Sebastian</span> <button>Sipariş</button></div>
+    </div>
+
+    
+
+
+</body></html>
+------MultipartBoundary--GTq7W8fA2xD1HPILIXQBRLOTTWzTVMaISmkMMbSPwm----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-93173f82-db0e-4fe6-87b1-594b2e0130e8@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; background: rgb(44, 62, 80); color: white; margin: 0px; padding: 20px; }
+
+h1 { text-align: center; color: rgb(230, 126, 34); }
+
+.kategori { background: rgb(52, 73, 94); padding: 10px; border-radius: 8px; margin-bottom: 20px; }
+
+.urun { display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 1px dashed rgb(93, 109, 126); }
+
+.urun:last-child { border-bottom: none; }
+
+button { background: rgb(230, 126, 34); color: white; border: none; padding: 8px 15px; border-radius: 5px; cursor: pointer; font-weight: bold; }
+
+button:active { background: rgb(211, 84, 0); }
+------MultipartBoundary--GTq7W8fA2xD1HPILIXQBRLOTTWzTVMaISmkMMbSPwm------

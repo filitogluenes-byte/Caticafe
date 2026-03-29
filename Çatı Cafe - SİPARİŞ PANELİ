@@ -1,0 +1,48 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://filitogluenes-byte.github.io/-at--cafe-y-netim/
+Subject: =?utf-8?Q?=C3=87at=C4=B1=20Cafe=20-=20S=C4=B0PAR=C4=B0=C5=9E=20PANEL=C4=B0?=
+Date: Sun, 29 Mar 2026 23:15:17 +0300
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--QsXTMmw4o1xhZABsM1tGU8HN0Qn8gC7cGqS7rcN47r----"
+
+
+------MultipartBoundary--QsXTMmw4o1xhZABsM1tGU8HN0Qn8gC7cGqS7rcN47r----
+Content-Type: text/html
+Content-ID: <frame-15473272E7D9533963A1964DAAFE8E90@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: https://filitogluenes-byte.github.io/-at--cafe-y-netim/
+
+<!DOCTYPE html><html lang="tr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-58f63fef-34d9-41b1-a5cf-15b1cf948d55@mhtml.blink" />
+    
+    <title>Çatı Cafe - SİPARİŞ PANELİ</title>
+    
+    
+    
+</head>
+<body>
+    <h1>🚀 Canlı Sipariş Paneli</h1>
+    <div id="liste"></div>
+
+    
+
+
+</body></html>
+------MultipartBoundary--QsXTMmw4o1xhZABsM1tGU8HN0Qn8gC7cGqS7rcN47r----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-58f63fef-34d9-41b1-a5cf-15b1cf948d55@mhtml.blink
+
+@charset "utf-8";
+
+body { font-family: sans-serif; background: rgb(236, 240, 241); padding: 20px; }
+
+h1 { color: rgb(44, 62, 80); text-align: center; }
+
+.siparis-kutu { background: white; border-left: 10px solid rgb(230, 126, 34); padding: 15px; margin-bottom: 10px; border-radius: 5px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 5px; display: flex; justify-content: space-between; align-items: center; }
+
+.saat { color: rgb(127, 140, 141); font-size: 12px; }
+
+button { background: rgb(192, 57, 43); color: white; border: none; padding: 10px; border-radius: 5px; cursor: pointer; }
+------MultipartBoundary--QsXTMmw4o1xhZABsM1tGU8HN0Qn8gC7cGqS7rcN47r------
